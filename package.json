@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev":"vite serve",
+    "build":"vite build",
+    "preview":"vite preview"
+  },
+  "dependencies": {
+    "vite": "^5.4.2"
+  }
+}
